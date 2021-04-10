@@ -1,0 +1,16 @@
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\bin\Debug\net5.0\Ukiyo.exe
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\bin\Debug\net5.0\Ukiyo.deps.json
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\bin\Debug\net5.0\Ukiyo.runtimeconfig.json
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\bin\Debug\net5.0\Ukiyo.runtimeconfig.dev.json
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\bin\Debug\net5.0\Ukiyo.dll
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\bin\Debug\net5.0\ref\Ukiyo.dll
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\bin\Debug\net5.0\Ukiyo.pdb
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\obj\Debug\net5.0\Ukiyo.csprojAssemblyReference.cache
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\obj\Debug\net5.0\Ukiyo.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\obj\Debug\net5.0\Ukiyo.AssemblyInfoInputs.cache
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\obj\Debug\net5.0\Ukiyo.AssemblyInfo.cs
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\obj\Debug\net5.0\Ukiyo.csproj.CoreCompileInputs.cache
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\obj\Debug\net5.0\Ukiyo.dll
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\obj\Debug\net5.0\ref\Ukiyo.dll
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\obj\Debug\net5.0\Ukiyo.pdb
+D:\TEMP\COOLYEA\PBO\kuliah\pbo\UTS PBO\Ukiyo\obj\Debug\net5.0\Ukiyo.genruntimeconfig.cache
